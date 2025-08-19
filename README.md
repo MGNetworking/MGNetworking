@@ -2,10 +2,11 @@
 
 <div align="center">
 
-### 🚀 Développeur Full-Stack passionné | Architecte Solutions | DevOps Enthusiast
+### 🚀 Développeur Backend avec comme spécialisation Spring Boot
 
-*Transformant les idées en solutions digitales robustes et scalables*
+*Je transforme les idées en solution technique en solutions digitales robustes et scalables.*
 
+<div align="center">
 ---
 
 💡 **Actuellement** : Spécialisé dans l'écosystème Java/Spring et les architectures cloud-native  
@@ -19,7 +20,7 @@
 
 ## 📊 Mes statistiques GitHub
 
-<div align="center">
+
 
 <table>
 <tr>
