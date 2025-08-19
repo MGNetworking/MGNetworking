@@ -1,21 +1,25 @@
-# Salut ! 👋 Je suis Ghalem Maxime
+# Salut ! 👋 Moi c'est Ghalem Maxime
 
 <div align="center">
 
-### 🚀 Développeur Backend avec comme spécialisation Spring Boot
+Je suis développeur Backend spécialisé dans l'écosystème Java/Spring. Ma passion est le développement d'API robustes et scalables. Je travaille principalement sur des environnements On-premises et suis ouvert aux architectures Cloud.
 
-*Je transforme les idées en solution technique en solutions digitales robustes et scalables.*
+Vous trouverez ici mes projets que je partage avec vous, la plupart du temps containerisés via Docker. Si vous avez des suggestions ou des propositions de collaboration, n'hésitez pas à me contacter.
+
+Au plaisir d'échanger ! 👋
 
 </div>
-  
----
-
-💡 **Actuellement** : Spécialisé dans l'écosystème Java/Spring et les architectures cloud-native  
-🌱 **En apprentissage** : Approfondissement de Kubernetes et des patterns microservices  
-🎯 **Objectif 2025** : Contribuer à des projets open-source innovants  
-💬 **Parlons de** : Architecture logicielle, DevOps, et optimisation des performances  
 
 ---
+
+## 📫 Me contacter 
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+
+</div>
 
 ## 📊 Mes statistiques GitHub
 
