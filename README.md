@@ -1,15 +1,46 @@
-## Salut ! 👋
+# Salut ! 👋 Je suis Ghalem Maxime
 
-## Mes statistiques GitHub
-![Mes Stats](https://github-readme-stats.vercel.app/api?username=MGNetworking&show_icons=true&theme=radical)
+<div align="center">
 
-## Mes langages les plus utilisés
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGNetworking&layout=compact&theme=radical)
+### 🚀 Développeur Full-Stack passionné | Architecte Solutions | DevOps Enthusiast
 
-## Ma série de contributions
-![GitHub Streak](https://streak-stats.demolab.com/?user=MGNetworking&theme=radical)
+*Transformant les idées en solutions digitales robustes et scalables*
 
-## 🛠️ Technologies & Outils
+---
+
+💡 **Actuellement** : Spécialisé dans l'écosystème Java/Spring et les architectures cloud-native  
+🌱 **En apprentissage** : Approfondissement de Kubernetes et des patterns microservices  
+🎯 **Objectif 2025** : Contribuer à des projets open-source innovants  
+💬 **Parlons de** : Architecture logicielle, DevOps, et optimisation des performances  
+
+---
+
+</div>
+
+## 📊 Mes statistiques GitHub
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+![Mes Stats](https://github-readme-stats.vercel.app/api?username=MGNetworking&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+
+</td>
+<td>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MGNetworking&theme=radical&hide_border=true&background=0d1117)
+
+</td>
+</tr>
+</table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGNetworking&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+</div>
+
+## 🛠️ Stack Technologique
 
 <div align="center">
 
@@ -20,5 +51,51 @@
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=plastic&logo=github-actions&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white) | | ![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=plastic&logo=keycloak&logoColor=white) | | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white) |
 | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white) | | | | |
+
+</div>
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MGNetworking&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+</div>
+
+## 📈 Graphique d'activité
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MGNetworking&bg_color=0d1117&color=e74c3c&line=e74c3c&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+## 🌟 Projets en vedette
+
+<div align="center">
+
+*Mes repositories les plus significatifs apparaîtront ici automatiquement*
+
+</div>
+
+## 📫 Restons connectés
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://votre-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **N'hésitez pas à explorer mes repos et laisser une étoile si quelque chose vous plaît !** ⭐
+
+*"Le code est de la poésie que seules les machines peuvent lire"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=MGNetworking&style=flat-square&color=red)
 
 </div>
