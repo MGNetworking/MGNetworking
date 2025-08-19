@@ -1,6 +1,5 @@
 # Salut ! 👋 Moi c'est Ghalem Maxime
 
-<div align="center">
 
 Je suis développeur Backend spécialisé dans l'écosystème Java/Spring. Ma passion est le développement d'API robustes et scalables. Je travaille principalement sur des environnements On-premises et suis ouvert aux architectures Cloud.
 
@@ -8,7 +7,6 @@ Vous trouverez ici mes projets que je partage avec vous, la plupart du temps con
 
 Au plaisir d'échanger ! 👋
 
-</div>
 
 ---
 
