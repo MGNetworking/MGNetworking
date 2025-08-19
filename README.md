@@ -3,7 +3,7 @@
 
 Je suis développeur Backend spécialisé dans l'écosystème Java/Spring. Ma passion est le développement d'API robustes et scalables. Je développe sur des environnements On-premises et j'intègre progressivement les solutions Cloud dans mes projets.
 
-Vous trouverez ici mes projets que je partage avec vous, la plupart du temps containerisés via Docker. Si vous avez des suggestions ou des propositions de collaboration, n'hésitez pas à me contacter.
+Retrouvez mes réalisations techniques, majoritairement containerisées avec Docker. Si vous avez des suggestions ou des propositions de collaboration, n'hésitez pas à me contacter.
 
 Au plaisir d'échanger ! 👋
 
