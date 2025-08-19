@@ -44,6 +44,8 @@ Au plaisir d'échanger ! 👋
 
 ## 📊 Mes statistiques GitHub
 
+<div align="center">
+
 <table>
 <tr>
 <td>
@@ -62,5 +64,4 @@ Au plaisir d'échanger ! 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGNetworking&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
 </div>
-
 
