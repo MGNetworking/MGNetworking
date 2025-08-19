@@ -6,7 +6,8 @@
 
 *Je transforme les idées en solution technique en solutions digitales robustes et scalables.*
 
-<div align="center">
+</div>
+  
 ---
 
 💡 **Actuellement** : Spécialisé dans l'écosystème Java/Spring et les architectures cloud-native  
@@ -15,8 +16,6 @@
 💬 **Parlons de** : Architecture logicielle, DevOps, et optimisation des performances  
 
 ---
-
-</div>
 
 ## 📊 Mes statistiques GitHub
 
