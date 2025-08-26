@@ -14,7 +14,7 @@ Au plaisir d'échanger ! 👋
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghalem.maxime@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-ghalem/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)]([https://ghoverblog.ovh/](https://ghalem.maxime.ghoverblog.ovh/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://ghalem.maxime.ghoverblog.ovh/)
 
 </div>
 
