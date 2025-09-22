@@ -22,8 +22,6 @@ Au plaisir d'échanger ! 👋
 
 ⭐ **N'hésitez pas à explorer mes repos et laisser une étoile si quelque chose vous plaît !** ⭐
 
-*"Le code est de la poésie que seules les machines peuvent lire"*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MGNetworking&style=flat-square&color=red)
 
 </div>
