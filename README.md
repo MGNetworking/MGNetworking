@@ -1,7 +1,7 @@
-# Salut ! 👋 Moi c'est Maxime
+# Salut ! 👋 Moi c'est Maxime — Développeur Java / Architectures applicatives & APIs
 
 
-Je suis développeur Backend spécialisé dans l'écosystème Java/Spring. Ma passion est le développement d'API robustes et scalables. Je développe sur des environnements On-premises et j'intègre progressivement les solutions Cloud dans mes projets.
+Je développe principalement des backends Java / Spring (API, sécurité, intégration), avec une exposition full-stack lorsque le contexte projet le nécessite.
 
 Retrouvez mes réalisations techniques, majoritairement containerisées avec Docker. Si vous avez des suggestions ou des propositions de collaboration, n'hésitez pas à me contacter.
 
