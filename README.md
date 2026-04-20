@@ -1,7 +1,7 @@
-# Salut ! 👋 Moi c'est Maxime — Développeur Java / Architectures applicatives & APIs
+# Salut ! 👋 Moi c'est Maxime — Développeur Backend C# .Net / Architectures applicatives & APIs
 
 
-Je développe principalement des backends Java / Spring (API, sécurité, intégration), avec une exposition full-stack lorsque le contexte projet le nécessite.
+Je développe principalement des Backend C# .Net, avec une exposition full-stack lorsque le contexte projet le nécessite.
 
 Retrouvez mes réalisations techniques, majoritairement containerisées avec Docker. Si vous avez des suggestions ou des propositions de collaboration, n'hésitez pas à me contacter.
 
