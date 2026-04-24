@@ -59,7 +59,9 @@ Au plaisir d'échanger ! 👋
 </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGNetworking&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGNetworking&layout=compact&langs_count=10&hide=html,css&theme=radical&hide_border=true&bg_color=0d1117)
+
+
 
 </div>
 
