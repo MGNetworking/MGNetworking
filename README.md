@@ -1,16 +1,16 @@
-# Hi there 👋 I'm Maxime — Backend Developer C# /.NET | APIs | Scalable Architectures
+# Hi there 👋 I'm Maxime
 
-I primarily design and build backend applications with **C# /.NET**, focused on clean architecture, REST APIs, performance and maintainability.
+### Backend Developer C# /.NET | APIs | Scalable Architectures
 
-I also work across the full stack when project context requires it, with experience in frontend integration, containerization and deployment workflows.
+I design and build backend applications focused on **C# /.NET**, REST APIs, maintainable codebases and production-ready software.
 
-Most of my projects are containerized with Docker and built with a production-oriented mindset.
+I also work across the full stack when needed, with experience in frontend integration, containerization and deployment workflows.
 
-Feel free to explore my repositories, share feedback, or reach out for collaboration opportunities.
+I share technical projects around backend engineering, software architecture and modern development practices.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -22,15 +22,13 @@ Feel free to explore my repositories, share feedback, or reach out for collabora
 
 <div align="center">
 
-⭐ **Feel free to explore my repositories and leave a star if you like something.** ⭐
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MGNetworking&style=flat-square&color=red)
 
 </div>
 
 ---
 
-## 🛠️ Core Expertise
+## 🛠️ Core Stack
 
 <div align="center">
 
@@ -38,6 +36,7 @@ Feel free to explore my repositories, share feedback, or reach out for collabora
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -55,41 +54,25 @@ Feel free to explore my repositories, share feedback, or reach out for collabora
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Featured Work
 
-- SaaS backend systems  
-- Cloud-ready .NET applications  
-- Distributed architectures  
-- API security & authentication  
-- Clean and maintainable codebases
+- Backend APIs and business applications in C# /.NET  
+- Containerized services with Docker  
+- Secure authentication flows and identity management  
+- Scalable architectures and maintainable systems  
+- Integration-focused technical projects
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
-
-<table>
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MGNetworking&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-</td>
-<td>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MGNetworking&theme=radical&hide_border=true&background=0d1117)
-
-</td>
-</tr>
-</table>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGNetworking&layout=compact&langs_count=10&hide=html,css&theme=radical&hide_border=true&bg_color=0d1117)
 
@@ -97,6 +80,6 @@ Feel free to explore my repositories, share feedback, or reach out for collabora
 
 ---
 
-## 💡 Philosophy
+## 💡 Engineering Mindset
 
-I value robust software design, readable code, continuous improvement and pragmatic engineering decisions.
+I value readable code, pragmatic architecture, continuous improvement and software built to last.
