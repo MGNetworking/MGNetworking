@@ -1,18 +1,20 @@
-# Salut ! 👋 Moi c'est Maxime — Développeur Backend C# .Net / Architectures applicatives & APIs
+# Hi there 👋 I'm Maxime — Backend Developer C# /.NET | APIs | Scalable Architectures
 
+I primarily design and build backend applications with **C# /.NET**, focused on clean architecture, REST APIs, performance and maintainability.
 
-Je développe principalement des Backend C# .Net, avec une exposition full-stack lorsque le contexte projet le nécessite.
+I also work across the full stack when project context requires it, with experience in frontend integration, containerization and deployment workflows.
 
-Retrouvez mes réalisations techniques, majoritairement containerisées avec Docker. Si vous avez des suggestions ou des propositions de collaboration, n'hésitez pas à me contacter.
+Most of my projects are containerized with Docker and built with a production-oriented mindset.
 
-Au plaisir d'échanger ! 👋
+Feel free to explore my repositories, share feedback, or reach out for collaboration opportunities.
 
+---
 
-## 📫 Restons connectés
+## 📫 Let's Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghalem.maxime@gmail.com) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghalem.maxime@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-ghalem/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://ghalem.maxime.ghoverblog.ovh/)
 
@@ -20,27 +22,57 @@ Au plaisir d'échanger ! 👋
 
 <div align="center">
 
-⭐ **N'hésitez pas à explorer mes repos et laisser une étoile si quelque chose vous plaît !** ⭐
+⭐ **Feel free to explore my repositories and leave a star if you like something.** ⭐
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MGNetworking&style=flat-square&color=red)
 
 </div>
 
-## 🛠️ Stack Technologique
+---
+
+## 🛠️ Core Expertise
 
 <div align="center">
 
-| 💻 Langages | 🎨 Frontend | ⚙️ Backend & BDD | 🐳 DevOps & Cloud | 🧪 Tests & CI/CD |
-|-------------|-------------|-------------------|-------------------|-------------------|
-| ![Jakarta EE](https://img.shields.io/badge/-Jakarta%20EE-ED8B00?style=plastic&logo=eclipse&logoColor=white) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white) | ![JUnit 4](https://img.shields.io/badge/-JUnit%204-25A162?style=plastic&logo=junit5&logoColor=white) |
-| ![C#](https://img.shields.io/badge/-C%23-239120?style=plastic&logo=c-sharp&logoColor=white) | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=plastic&logo=astro&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white) | ![Docker Swarm](https://img.shields.io/badge/-Docker%20Swarm-2496ED?style=plastic&logo=docker&logoColor=white) | ![JUnit 5](https://img.shields.io/badge/-JUnit%205-25A162?style=plastic&logo=junit5&logoColor=white) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=plastic&logo=github-actions&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white) | | ![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=plastic&logo=keycloak&logoColor=white) | | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white) | | | | |
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-## 📊 Mes statistiques GitHub
+---
+
+## ⚙️ Additional Experience
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+- SaaS backend systems  
+- Cloud-ready .NET applications  
+- Distributed architectures  
+- API security & authentication  
+- Clean and maintainable codebases
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -48,7 +80,7 @@ Au plaisir d'échanger ! 👋
 <tr>
 <td>
 
-![Mes Stats](https://github-readme-stats.vercel.app/api?username=MGNetworking&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MGNetworking&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117)
 
 </td>
 <td>
@@ -59,9 +91,12 @@ Au plaisir d'échanger ! 👋
 </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGNetworking&layout=compact&langs_count=10&hide=html,css&theme=radical&hide_border=true&bg_color=0d1117)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGNetworking&layout=compact&langs_count=10&hide=html,css&theme=radical&hide_border=true&bg_color=0d1117)
 
 </div>
 
+---
+
+## 💡 Philosophy
+
+I value robust software design, readable code, continuous improvement and pragmatic engineering decisions.
