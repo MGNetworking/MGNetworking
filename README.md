@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋 I'm Maxime
 
 ### Backend Developer C# / .NET | SaaS Solutions & Business Applications | ASP.NET Core (.NET 6–10)
@@ -88,4 +87,3 @@ Also experienced in **corrective and evolutionary maintenance** of .NET applicat
 ## 💡 Engineering Mindset
 
 Software built to last: security, maintainability and evolvability from the architecture stage — Clean Architecture, SOLID principles, tests and documentation delivered with the code.
-```
