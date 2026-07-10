@@ -1,12 +1,11 @@
+```markdown
 # Hi there 👋 I'm Maxime
 
-### Backend Developer C# /.NET | APIs | Scalable Architectures
+### Backend Developer C# / .NET | SaaS Solutions & Business Applications | ASP.NET Core (.NET 6–10)
 
-I design and build backend applications focused on **C# /.NET**, REST APIs, maintainable codebases and production-ready software.
+I design and build **SaaS solutions and business applications** with C# / ASP.NET Core — REST APIs, centralized authentication, automated deployment — and take them from design all the way to production.
 
-I also work across the full stack when needed, with experience in frontend integration, containerization and deployment workflows.
-
-I share technical projects around backend engineering, software architecture and modern development practices.
+Also experienced in **corrective and evolutionary maintenance** of .NET applications in production, with occasional frontend work (Angular) to support the backend.
 
 ---
 
@@ -35,10 +34,15 @@ I share technical projects around backend engineering, software architecture and
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![xUnit](https://img.shields.io/badge/-xUnit-5C2D91?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </div>
 
@@ -52,21 +56,22 @@ I share technical projects around backend engineering, software architecture and
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![Nexus](https://img.shields.io/badge/-Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-- Backend APIs and business applications in C# /.NET  
-- Containerized services with Docker  
-- Secure authentication flows and identity management  
-- Scalable architectures and maintainable systems  
-- Integration-focused technical projects
+| Project | Description |
+|---|---|
+| [nutrition-api](https://github.com/MGNetworking/nutrition-api) *(in progress)* | RESTful API for personalized diet management — ASP.NET Core, Clean Architecture, Entity Framework Core, PostgreSQL, authentication, OpenAPI documentation |
+| [swarm-iam-platform](https://github.com/MGNetworking/swarm-iam-platform) | Identity and access management platform — Keycloak, PostgreSQL, Docker |
+| [API-Spring-Keycloak](https://github.com/MGNetworking/API-Spring-Keycloak) | API integration with centralized Keycloak authentication (Java/Spring) |
+| [docker-jenkins](https://github.com/MGNetworking/docker-jenkins) | Containerized continuous integration infrastructure |
 
 ---
 
@@ -82,4 +87,5 @@ I share technical projects around backend engineering, software architecture and
 
 ## 💡 Engineering Mindset
 
-I value readable code, pragmatic architecture, continuous improvement and software built to last.
+Software built to last: security, maintainability and evolvability from the architecture stage — Clean Architecture, SOLID principles, tests and documentation delivered with the code.
+```
